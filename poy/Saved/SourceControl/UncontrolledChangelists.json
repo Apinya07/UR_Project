@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unity/UR_Project/poy/Content/AI/BP_ThirdPersonCharacter_Child_Ai.uasset",
+				"D:/Unity/UR_Project/poy/Content/ThirdPerson/Blueprints/BP_PlayerContorller.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/AI_character.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/AI_Contro.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/AI_Controler.uasset",
+				"D:/Unity/UR_Project/poy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/7N/UYAQFIHLK7U5M69U3BTS28.uasset",
+				"D:/Unity/UR_Project/poy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/CX/O2QMHEMSU8OG5UB0C2AXSK.uasset",
+				"D:/Unity/UR_Project/poy/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/SO/QEWLU1JSE795LTD40F7PEX.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/AI_BB.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/AI_BT.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/Task/BTTask_RanddomMoveToRotation.uasset",
+				"D:/Unity/UR_Project/poy/Content/AI/Task/BTTask_ClearBlackboardKey.uasset"
+			]
+		}
+	]
+}
